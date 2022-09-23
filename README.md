@@ -3,9 +3,9 @@ A toolset for the Unity Engine that makes the development of RPG games a lot eas
 
 ![yrMUR8m](https://user-images.githubusercontent.com/20478938/191911352-23c17f50-90db-4ca2-93b4-44ac6579b663.png)
 
-[Website(https://silvematt.com/URPGCreationKitSite/)] | [Demo(https://silvematt.com/URPGCreationKitSite/Demo/)] | [Documentation(https://silvematt.com/URPGCreationKitDocumentation/)]
+[Website](https://silvematt.com/URPGCreationKitSite) | [Demo](https://silvematt.com/URPGCreationKitSite/Demo/) | [Documentation](https://silvematt.com/URPGCreationKitDocumentation/)
 
-[[Join Discord](https://discord.gg/a2W97RtkDx)]
+[Join Discord](https://discord.gg/a2W97RtkDx)
 
 View the website for a more detailed overview.
 
@@ -47,4 +47,4 @@ Here is a partial list of main features:
 - Gamepad support
 - And much, much more.
 
-For more details, please view the [website(https://silvematt.com/URPGCreationKitSite/)].
+For more details, please view the [website](https://silvematt.com/URPGCreationKitSite)
